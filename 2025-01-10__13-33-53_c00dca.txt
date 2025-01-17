@@ -8,3 +8,5 @@ Advertising
 Business
 How Search works
 Privacy
+Terms
+Settings
