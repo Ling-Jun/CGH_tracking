@@ -6,8 +6,7 @@ Create a Page for a celebrity, brand or business.
 English (US)
 Français (Canada)
 Español
-中文(简体)
-한국어
+
 日本語
 Português (Brasil)
 Deutsch
