@@ -1,6 +1,6 @@
 page,date,status,diff
 https://ised-isde.canada.ca/site/ised/en/canadas-regional-development-agencies,2025-01-27 13:25:05,N/A,NO CHANGES TO THE CONTENT!
 www.test.io,2025-01-27 13:25:29,N/A,NO CHANGES TO THE CONTENT!
-www.facebook.com,"This is previous change, rescrape for current change!",CHANGE-DETECTED!,There may not be a previous commit to compare with.
+www.facebook.com,2025-01-27 13:25:44,N/A,NO CHANGES TO THE CONTENT!
 www.google.ca,2025-01-27 12:31:41,CHANGE-DETECTED!,
 www.github.com,2025-01-27 12:31:57,CHANGE-DETECTED!,
