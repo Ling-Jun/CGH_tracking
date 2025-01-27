@@ -2,4 +2,4 @@ page,date,status,diff
 https://ised-isde.canada.ca/site/ised/en/canadas-regional-development-agencies,2025-01-27 09:29:46,N/A,NO CHANGES TO THE CONTENT!
 www.facebook.com,2025-01-27 09:30:02,N/A,NO CHANGES TO THE CONTENT!
 www.test.io,2025-01-27 09:30:17,N/A,NO CHANGES TO THE CONTENT!
-www.google.ca,2025-01-27 09:38:40,N/A,NO CHANGES TO THE CONTENT!
+www.google.ca,2025-01-27 09:54:02,CHANGE-DETECTED!,"diff --git a/2025-01-10__13-33-53_c00dca.txt b/2025-01-10__13-33-53_c00dca.txt<br>index f55dd7e..150e046 100644<br>--- a/2025-01-10__13-33-53_c00dca.txt<br>+++ b/2025-01-10__13-33-53_c00dca.txt<br>@@ -2,7 +2,7 @@ About<br> Store<br> GmailImages<br> Sign in<br><span style='color: red;'>-Google offered in:</span><br><span style='color: green;'>+Google offered in: Français</span><br> Canada<br> Advertising<br> Business"
