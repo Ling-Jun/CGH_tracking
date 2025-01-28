@@ -61,8 +61,6 @@ PSF Grants: Program & Charter Updates (TLDR)
 PSF Grants: Program & Charter Updates (Part 2)
 Upcoming Events
 More
-01-27
-Python Leiden User Group
 01-29
 IndyPy - Building Voice Agents: Unpacking the Pipeline
 02-02
@@ -71,10 +69,12 @@ Python devroom @ FOSDEM 2025
 PyCascades 2025
 02-15
 Python Barcamp Karlsruhe 2025
+02-21
+Django Girls Koforidua
 Success Stories
 More
-“We feel much better equipped now to handle the challenges. And if we run into an issue, we’ll come to Caktus to hammer it out," said Stephen Johnston, VP of Engineering, at Force Therapeutics.
-A Startup Healthcare Tech Firm Is Now Poised for the Future by Caktus Group
+"Some of the things [SonarCloud] spots are impressive (probably driven by some introspection and/or type inference), not just the simple pattern matching that I am used to in most of the flake8 ecosystem." - Peter J. A. Cock - maintainer of BioPython
+Deliver Clean and Safe Code for Your Python Applications by Kirti Joshi, Nicolas Bontoux
 Use Python for…
 More
 Web Development:
