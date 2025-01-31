@@ -1,0 +1,14 @@
+open
+closed
+update
+new
+deadline
+eligibility"
+"available"
+"accepting"
+"engaging"
+"over-subscribed"
+"webinar"
+"session"
+"announcement"
+"notice"
