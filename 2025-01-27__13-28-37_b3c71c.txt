@@ -40,7 +40,7 @@ Whether you're new to programming or an experienced developer, it's easy to lear
 Start with our Beginner’s Guide
 Download
 Python source code and installers are available for download for all versions!
-Latest: Python 3.13.1
+Latest: Python 3.13.2
 Docs
 Documentation for Python's standard library, along with tutorials and guides, are available online.
 docs.python.org
@@ -49,6 +49,8 @@ Looking for work or have a Python related position that you're trying to hire fo
 jobs.python.org
 Latest News
 More
+02-04
+Python 3.13.2 and 3.12.9 now available!
 01-15
 PSF Newsletter: Awards, Grants, & PyCon US 2025!
 01-14
@@ -57,12 +59,8 @@ Python 3.14.0 alpha 4 is out
 Powering Python together in 2025, thanks to our community!
 12-19
 PSF Grants: Program & Charter Updates (Part 2)
-12-19
-PSF Grants: Program & Charter Updates (TLDR)
 Upcoming Events
 More
-02-02
-Python devroom @ FOSDEM 2025
 02-08
 PyCascades 2025
 02-15
@@ -70,11 +68,13 @@ Python Barcamp Karlsruhe 2025
 02-21
 Django Girls Koforidua
 02-22
+PyConf Hyderabad 2025
+02-22
 DjangoCongress JP 2025
 Success Stories
 More
-Einblick reimagines the modern data science workflow in a collaborative data science canvas, rather than a linear notebook. Working in a canvas environment offers many advantages including live collaboration, an expansive visual interface, and a progressive computation engine. In this article, we’ll highlight one of the key ways we’re saving data scientists time–our operators. We’ll go through a couple of our core operators, why Python is such a crucial part of our software solution, and how we augmented our offerings with a user operator interface. The latter allows users to customize and use their own operators, which can be used in any Einblick canvas, and shared with other Einblick users.
-Reimagining data science with Python-based operators in Einblick’s visual canvas by Becca Weng
+Generating realistic location data for users for testing or modeling simulations is a hard problem. Current approaches just create random locations inside a box, placing users in waterways or on top of buildings. This inability to make accurate, synthetic location data stifles a lot of innovative projects that require diverse and complex datasets to fuel their work.
+Using Python with Gretel.ai to Generate Synthetic Location Data by Alex Watson, co-founder and CPO, Gretel.ai
 Use Python for…
 More
 Web Development:
