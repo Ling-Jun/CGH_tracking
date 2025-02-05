@@ -58,7 +58,7 @@ Python 3.14.0 alpha 4 is out
 01-14
 Powering Python together in 2025, thanks to our community!
 12-19
-PSF Grants: Program & Charter Updates (TLDR)
+PSF Grants: Program & Charter Updates (Part 2)
 Upcoming Events
 More
 02-08
@@ -73,8 +73,8 @@ PyConf Hyderabad 2025
 DjangoCongress JP 2025
 Success Stories
 More
-Prioritizing cutting-edge speed and supporting the rapid growth of Hudson River Trading’s codebase can have unintended effects that require innovative solutions. For those working on our Python codebase, this means addressing “code tangling,” the coupling of unrelated code through unintuitive import cycles. In this article, George Farcasiu, Noah Kim, Jacob Brugh, and Jiahao Li discuss how they mitigate the cost and time burden of this issue by creating new tools to analyze and untangle dependencies efficiently.
-Building a Dependency Graph of Our Python Codebase by George Farcasiu, Noah Kim, Jacon Brugh, Jiahao Li
+Thanks to the flexibility of Python and the powerful ecosystem of packages, the Azure CLI supports features such as autocompletion (in shells that support it), persistent credentials, JMESPath result parsing, lazy initialization, network-less unit tests, and more.
+Building an open-source and cross-platform Azure CLI with Python by Dan Taylor
 Use Python for…
 More
 Web Development:
