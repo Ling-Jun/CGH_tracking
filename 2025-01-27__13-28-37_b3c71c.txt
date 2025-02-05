@@ -58,7 +58,7 @@ Python 3.14.0 alpha 4 is out
 01-14
 Powering Python together in 2025, thanks to our community!
 12-19
-PSF Grants: Program & Charter Updates (Part 2)
+PSF Grants: Program & Charter Updates (TLDR)
 Upcoming Events
 More
 02-08
@@ -73,8 +73,8 @@ PyConf Hyderabad 2025
 DjangoCongress JP 2025
 Success Stories
 More
-Generating realistic location data for users for testing or modeling simulations is a hard problem. Current approaches just create random locations inside a box, placing users in waterways or on top of buildings. This inability to make accurate, synthetic location data stifles a lot of innovative projects that require diverse and complex datasets to fuel their work.
-Using Python with Gretel.ai to Generate Synthetic Location Data by Alex Watson, co-founder and CPO, Gretel.ai
+Prioritizing cutting-edge speed and supporting the rapid growth of Hudson River Trading’s codebase can have unintended effects that require innovative solutions. For those working on our Python codebase, this means addressing “code tangling,” the coupling of unrelated code through unintuitive import cycles. In this article, George Farcasiu, Noah Kim, Jacob Brugh, and Jiahao Li discuss how they mitigate the cost and time burden of this issue by creating new tools to analyze and untangle dependencies efficiently.
+Building a Dependency Graph of Our Python Codebase by George Farcasiu, Noah Kim, Jacon Brugh, Jiahao Li
 Use Python for…
 More
 Web Development:
