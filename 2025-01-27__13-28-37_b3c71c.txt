@@ -73,8 +73,8 @@ PyConf Hyderabad 2025
 DjangoCongress JP 2025
 Success Stories
 More
-Thanks to the flexibility of Python and the powerful ecosystem of packages, the Azure CLI supports features such as autocompletion (in shells that support it), persistent credentials, JMESPath result parsing, lazy initialization, network-less unit tests, and more.
-Building an open-source and cross-platform Azure CLI with Python by Dan Taylor
+Python's convenience has made it the most popular language for machine learning and artificial intelligence. Python's flexibility has allowed Anyscale to make ML/AI scalable from laptops to clusters.
+Python provides convenience and flexibility for scalable ML/AI by Dean Wampler
 Use Python for…
 More
 Web Development:
