@@ -31,3 +31,4 @@ https://www.canada.ca/en/revenue-agency/services/tax/technical-information/incom
 https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/corporations/business-tax-credits/clean-economy-itc/carbon-capture-itc.html,2025-02-12__16-25-47_6f889c.txt,
 https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/corporations/business-tax-credits/clean-economy-itc/clean-hydrogen-itc.html,2025-02-12__16-26-14_b206dc.txt,
 https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/corporations/business-tax-credits/clean-economy-itc/clean-technology-itc.html,2025-02-12__16-26-36_7726c6.txt,
+https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/corporations/business-tax-credits/clean-economy-itc/clean-technology-manufacturing-itc.html,2025-02-12__16-26-57_e2d75a.txt,
