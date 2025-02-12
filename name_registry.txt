@@ -20,3 +20,4 @@ https://cib-bic.ca/en/zero-emission-buses-initiative/,2025-02-12__16-22-51_4b9d0
 https://cib-bic.ca/en/sectors/public-transit/,2025-02-12__16-22-52_022aad.txt,
 https://cib-bic.ca/en/building-retrofits-initiative/,2025-02-12__16-22-54_383117.txt,
 https://cib-bic.ca/en/sectors/green-infrastructure/,2025-02-12__16-22-56_4b2cae.txt,
+https://cib-bic.ca/en/charging-and-hydrogen-refuelling-infrastructure-initiative/,2025-02-12__16-22-57_bf3fc6.txt,
