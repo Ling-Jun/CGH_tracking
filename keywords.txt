@@ -1,4 +1,3 @@
-clean
 open
 closed
 update
