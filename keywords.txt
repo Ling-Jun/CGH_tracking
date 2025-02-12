@@ -1,3 +1,4 @@
+clean
 open
 closed
 update
@@ -12,3 +13,4 @@ webinar
 session
 announcement
 notice
+extended
