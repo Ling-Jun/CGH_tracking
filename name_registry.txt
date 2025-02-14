@@ -1,5 +1,2 @@
 
-www.cnn.com,2025-02-14__13-01-25_c29c2c.txt,
-www.test.io,2025-02-14__13-01-30_410cba.txt,
-https://ised-isde.canada.ca/site/ised/en/canadas-regional-development-agencies,2025-02-14__13-31-54_994be7.txt,
-https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/corporations/business-tax-credits/clean-economy-itc.html,2025-02-14__13-32-35_df3ba7.txt,
+www.cnn.com,2025-02-14__13-50-24_305bd4.txt,
