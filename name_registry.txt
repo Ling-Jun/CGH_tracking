@@ -116,3 +116,4 @@ https://www.proteinindustriescanada.ca/capacity-building,2025-02-25__10-40-03_b2
 https://www.proteinindustriescanada.ca/artificial-intelligence,2025-02-25__10-40-05_ddbaf8.txt,
 https://canadabuys.canada.ca/en,2025-02-25__10-40-06_8fb7bc.txt,
 https://www.scaleai.ca/projects/,2025-02-25__10-40-08_dc48c9.txt,
+https://www.scaleai.ca/acceleration/,2025-02-25__10-40-09_ece05b.txt,
