@@ -1,0 +1,1 @@
+<crontab: 1 1 2 * 2 (m/h/dM/MY/d)>
