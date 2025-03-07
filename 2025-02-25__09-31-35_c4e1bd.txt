@@ -20,8 +20,8 @@ The Regional Artificial Intelligence Initiative funds:
 businesses that are commercializing or adopting artificial intelligence (AI) solutions in B.C.
 not-for-profit organizations that are supporting AI commercialization or adoption and ecosystem development in B.C.
 Intake will focus on the following:
-businesses with projects to support AI commercialization
-not-for-profit organizations with projects that help develop the AI ecosystem in B.C., particularly those that bring AI commercialization activities together with AI adoption activities
+Businesses with projects to support AI commercialization
+Not-for-profit organizations with projects that help develop the AI ecosystem in B.C., particularly those that bring AI commercialization activities together with AI adoption activities
 Note that projects to support businesses that are adopting existing AI technologies may be considered on an exceptional basis.
 Program objectives
 The Initiative aims to support projects that:
@@ -47,4 +47,4 @@ X:
 YouTube:
 LinkedIn:
 Page details
-Date modified: 2025-02-18
+Date modified: 2025-03-05
