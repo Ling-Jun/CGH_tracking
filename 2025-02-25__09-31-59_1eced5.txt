@@ -17,11 +17,11 @@ An Indigenous-led not-for-profit or organization
 A municipal, provincial or territorial government, including a crown corporation
 Eligible activities
 Eligible activities aim to advance innovative housing solutions and improve manufacturing efficiency and output. Examples include:
-Investing in manufacturing and construction technology, such as modular and mass timber construction, to increase productivity
-Helping firms adapt, adopt and scale innovative construction methods such as prefabrication, modular construction, net-zero housing, 3D printing and climate resilient housing practices
-Investing in innovation, demonstration and commercialization to speed up home construction
-Scaling existing manufacturers of panelized construction materials such as prefabricated drywall, trusses, cement, windows and doors
-Developing innovative tools that improve off-site construction technologies and practices
+investing in manufacturing and construction technology, such as modular and mass timber construction, to increase productivity
+helping firms adapt, adopt and scale innovative construction methods such as prefabrication, modular construction, net-zero housing, 3D printing and climate resilient housing practices
+investing in innovation, demonstration and commercialization to speed up home construction
+scaling existing manufacturers of panelized construction materials such as prefabricated drywall, trusses, cement, windows and doors
+developing innovative tools that improve off-site construction technologies and practices
 Contact
 If you have an innovative idea for B.C.’s homebuilding sector or are unsure if the Regional Homebuilding Innovation Initiative is right for you, please contact us for more information.
 Email: info@pacifican.gc.ca
@@ -34,4 +34,4 @@ X:
 YouTube:
 LinkedIn:
 Page details
-Date modified: 2025-01-29
+Date modified: 2025-03-05
