@@ -41,6 +41,13 @@ Item
 Next
 Play
 - Start tab rotation
+  Play
+Mute
+Current position:
+00:00:00
+Total time:
+00:01:50
+Show closed captioning
 Innovator journeys: 2024 CUAS Sandbox – Innovators (Transcript)
 Social media
 Facebook:
