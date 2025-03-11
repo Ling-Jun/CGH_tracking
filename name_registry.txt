@@ -121,3 +121,6 @@ https://natural-resources.canada.ca/energy-efficiency/transportation-alternative
 https://tc.canada.ca/en/programs/green-shipping-corridor-program,2025-02-25__10-40-44_325879.txt,
 https://www.canada.ca/en/treasury-board-secretariat/services/innovation/greening-government/greening-gov-fund.html,2025-02-25__10-41-09_06a87b.txt,
 http://www.canada.ca/en/economic-development-quebec-regions.html,2025-03-07__15-07-47_fc7c2b.txt,
+https://nrc.canada.ca/en/irap/about/international/,2025-03-11__15-19-54_ea8871.txt,
+https://nrc.canada.ca/en/irap/about/international/?action=view&id=221,2025-03-11__15-20-33_db36c8.txt,
+https://www.canada.ca/en/environment-climate-change/services/environmental-funding/programs/nature-smart-climate-solutions-fund.html,2025-03-11__16-44-08_bd4f34.txt,

@@ -40,7 +40,7 @@ Economic Development in Montréal’s East End
 Open
 Promote development initiatives that support the revitalization, attractiveness, and sustainable reindustrialization of Montreal’s East End.
 Tourism Growth
-Ouvert
+Closed
 Help SMEs, NPOs and communities enhance regional tourism products and experiences to increase their potential to attract visitors from outside Quebec.
 Quantum Innovation
 Open
@@ -103,4 +103,4 @@ Stay tuned for advice and services from CED
 Subscribe to our newsletter
 Follow us
 Page details
-Date modified: 2025-03-06
+Date modified: 2025-03-11
