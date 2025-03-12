@@ -12,3 +12,4 @@ webinar
 session
 announcement
 notice
+test
