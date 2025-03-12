@@ -1,3 +1,4 @@
+testest
 open
 closed
 update
@@ -12,4 +13,3 @@ webinar
 session
 announcement
 notice
-test
