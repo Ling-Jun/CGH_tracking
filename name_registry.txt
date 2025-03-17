@@ -124,3 +124,5 @@ http://www.canada.ca/en/economic-development-quebec-regions.html,2025-03-07__15-
 https://nrc.canada.ca/en/irap/about/international/,2025-03-11__15-19-54_ea8871.txt,
 https://nrc.canada.ca/en/irap/about/international/?action=view&id=221,2025-03-11__15-20-33_db36c8.txt,
 https://www.canada.ca/en/environment-climate-change/services/environmental-funding/programs/nature-smart-climate-solutions-fund.html,2025-03-11__16-44-08_bd4f34.txt,
+https://netzeroatlantic.ca/,2025-03-17__09-16-28_24fe6e.txt,
+https://netzeroatlantic.ca/requests-proposals,2025-03-17__09-42-20_767f94.txt,
