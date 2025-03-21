@@ -1,1 +1,229 @@
-Critical Minerals Research, Development and Demonstration ProgramAdvancing the commercial readiness of emerging mineral processing operations or technologiesThe Critical Minerals Research, Development and Demonstration (CMRDD) program  is providing $192.1 million in federal funding to support the development of innovative processing technologies for the critical minerals industry, which will help advance Canadian mining projects toward production and further develop domestic critical minerals value chains.CMRDD is administered through two funding streams:Federal research and development projectsClosed for applicationsFunds federal research and development (R&D) projects that are aligned with industry needs and supported by several of Canada’s federal research facilitiesProject applications from the most recentexpression of interestintake process are currently in review. Funded projects will be announced in spring 2024.Contribution fundingClosed for applicationsFunds to advance technological solutions for the production of critical minerals at several stages, such as processing, downstream product manufacturing and recyclingProject applications from the most recentcall for proposalsare currently in review. Funded projects will be announced in spring 2024.BackgroundWithin each funding stream, allocations will be made in phases as funding becomes available. The following provides a breakdown of budget allocations to date:Federal research and developmentBetween 2022 and 2024, $35.7 million was allocated to 30 R&D projects undertaken by federal research laboratories and focused on battery minerals, mining value from waste, clean tech and other value chains.Learn more about Canada’s R&D projects.The most recent budget will allocate up to $44.4 million to federal R&D laboratories for the development of new or improved technologies that support the advancement of critical mineral value chains. In order to better align federal R&D with industry needs, industry and academia were invited to submit an expression of interest to collaborate with federal research laboratories on upstream and midstream projects at low to mid technology readiness levels (TRL) 2–5 with the capacity to:make significant positive impacts on the critical minerals industry in Canadahelp propel projects into the pilot and demonstration (pre-commercialization) phase of developmentStatus:Thiscall for applicationsis closed. A list of funded projects will be announced soon.Contribution fundingBetween 2022 and 2025, $22.2 million in contribution funding was allocated to pilot plant and demonstration projects. In total, eight projects were funded to validate the feasibility and viability of processing technologies. See the list of funded projects below.The most recent call for proposals will allocate up to $40 million to support midstream projects at technology readiness levels 6–8. This will help to advance the commercial readiness of emerging processing technologies and provide raw material inputs for use in:batteries and permanent magnetsadvanced manufacturing supply chainssemiconductorsinformation and communication technologiescritical infrastructure value chains for commercializationStatus:Thiscall for applicationsis closed. Funded projects will be announced and listed below.Funded ProjectsThe following is a list of projects that received contribution funding from the CMRDD program (additional projects will be announced soon). These projects help to advance production of zero-emission vehicle batteries and other clean technologies such as the manufacturing of permanent magnets.Kingston Demonstration Plant – Extended OperationsOrganization:Cyclic Materials Inc.Description:Operate a demonstration plant that produces high-purity mixed rare earth  oxide (MREO) and a cobalt/nickel mixed hydroxide product (MHP) from mixed feed  sources using proprietary Cyclic Materials Inc. physical (spoke) and hydrometallurgical (hub)  processes, validating operating conditions to support future scale and  commercial operations.Amount funded:$4,893,125Status:Launching in 2024; expected to be completed by 2027Critical Mineral:Rare earth elements, cobalt, nickelLocation:Kingston, OntarioCanadian Brine to Battery Chemicals: Simplified, Lower Cost, More SustainableOrganization:Saltworks Technologies Inc.Description:Process geological lithium brines using Saltwork’s novel technologies to  produce lithium battery precursors through a process that reduces costs and  energy while increasing lithium yield.Amount funded:$4,937,500Status:Launching in 2024; expected to be completed by 2027Critical Mineral:LithiumLocation:Richmond, British ColumbiaElectrolysis for lithium production and recyclingOrganization:NORAM Electrolysis Systems Inc. (NESI)Description:Establish a demonstration plant and continuous improvement test centre  to advance the industrial implementation of the NORSCAND® membrane electrolysis  technology for battery grade lithium hydroxide production through long-duration  lithium production campaigns.Amount funded:$4,500,000Status:Launching in 2024; expected to be completed by 2027Critical Mineral:LithiumLocation:Richmond, British ColumbiaPiloting of bioleaching processes for recovery of battery metals (Ni and Co) from pyrrhotite tailingsOrganization:Mining Innovation Rehabilitation and Applied Research Corporation (MIRARCO)Description:Perform continuous pilot campaigns to compare three competing bioleaching technologies developed with academic, industry and government research partners to demonstrate which one provides the most efficient, economic and environmentally sustainable method for the recovering of nickel, cobalt and copper from pyrrhotite-rich tailings.Amount funded:$5,000,000Status:Expected to start in 2024Critical Mineral:Nickel, cobalt, copperLocation:Sudbury, OntarioBlack Mass Recycling ProjectOrganization:Electra Battery Materials CorporationDescription:Demonstrate Electra’s hydrometallurgical process for recycling black mass material on a continuous production basisAmount funded:$5,000,000Status:Expected to start in 2024Critical Mineral:Nickel, cobalt, lithiumLocation:Cobalt, Ontario and Temiskaming Shores, OntarioLa Loutre Graphite UpgradingOrganization:Lomiko Metals Inc.Description:Pilot upgrading of 200 tonnes of La Loutre graphite to prove the suitability of the battery anode material meeting purity levels of over 99.95% graphitic carbon content and very low impurity contentAmount funded:$4,941,590Status:Expected to start in 2024Critical Mineral:GraphiteLocation:Lac-des-plages, QuebecCobalt Sulphate Process PilotOrganization:Fortune Minerals LimitedDescription:Pilot hydrometallurgical process to validate and optimize process conditions for the production of high-purity cobalt sulphate, bismuth ingots and blending of process streams; and the validation of gypsum by-product; as well as ensure the process residue is stable for safe disposalAmount funded:$714,500Status:Launched in November 2023; expected to be completed by March 2025Critical Minerals:Cobalt, nickelLocation:Northwest Territories*Building on this project, additional funding of up to $7.5 million from Canada’s Global Partnerships Initiative may be allocated to Fortune to help advance engineering for mine site and refinery infrastructure through the completion of its Front-End Engineering and Design study.RapidSX™ Commercialization Demonstration PlantOrganization:Ucore Rare Metals Inc.Description:Demonstrate the commercial efficacy of the RapidSX™ rare earth elements separation technology platform under rigorously simulated commercial conditionsAmount funded:$4,275,848Status:Launched in November 2023; expected to be completed in March 2025Critical Minerals:Rare earth elementsLocation:Kingston, OntarioTechnical and Economical Feasibility of Dumont Nickel ConcentrateOrganization:Magneto Investments Limited PartnershipDescription:Explore and optimize the key design parameters of processing nickel concentrate into battery intermediates (i.e., mixed hydroxide precipitate and nickel sulphate) using a hydrometallurgical programAmount funded:$4,493,889Status:Launched in November 2023; expected to be completed in March 2025Critical Minerals:Nickel, cobaltLocation:Amos, QuebecSolvent Extraction for the Separation of Dysprosium and TerbiumOrganization:Saskatchewan Research CouncilDescription:Develop, design, install, commission and test the separation of dysprosium and terbium oxide, using a solvent extraction processAmount funded:$4,990,000Status:Launched in October 2023; expected to be completed in March 2025Critical Minerals:Rare earth elementsLocation:SaskatchewanRecycling and Production of Rare-Earth Oxides from Permanent Magnet ScrapOrganization:Geomega Resources Inc.Description:Demonstrate the sustainability of an innovative process to recycle rare earth elements from magnet scrap with a lower carbon footprint compared to other standard processesAmount funded:$3,000,000Status:Launched in March 2023; expected to be completed in February 2025Critical Minerals:Rare earth elementsLocation:Saint-Hubert and Longueuil, QuebecBattery Material Supply Chain IntegrationOrganization:FPX Nickel Corp.Description:Demonstrate the technical and economic viability to produce battery-grade, high-purity nickel, cobalt and copper for the zero-emission vehicle (ZEV) battery supply chain from the Baptiste Nickel ProjectAmount funded:$724,858Status:Launched in March 2023; expected to be completed in September 2024Critical Minerals:Nickel, cobalt, copperLocation:British ColumbiaDirect Lithium Extraction (DLE) Pilot ProjectOrganization:E3 Lithium LtdDescription:Construct and operate a DLE pilot plant that extracted lithium from brine using proprietary DLE technologyAmount funded:$3,545,000Status:Launched March 2023; completed March 2024Critical Mineral:LithiumLocation:Calgary, AlbertaMixed Hydroxide Precipitate (MHP) Integration into Sherritt’s Fort Saskatchewan Metals RefineryOrganization:Sherritt International CorporationDescription:Evaluate the feasibility and opportunity of using MHP as an additional feed material to efficiently produce high-purity nickel and cobaltAmount funded:$575,300Status:Launched in March 2023; completed in March 2024Critical Minerals:Nickel, cobaltLocation:Fort Saskatchewan, AlbertaPage detailsDate modified:2024-09-13
+Critical Minerals Research, Development and Demonstration Program
+Advancing the commercial readiness of emerging mineral processing operations or technologies
+The Critical Minerals Research, Development and Demonstration (CMRDD) program  is providing $192.1 million in federal funding to support the development of innovative processing technologies for the critical minerals industry, which will help advance Canadian mining projects toward production and further develop domestic critical minerals value chains.
+CMRDD is administered through two funding streams:
+Federal research and development projects
+Closed for applications
+Funds federal research and development (R&D) projects that are aligned with industry needs and supported by several of Canada’s federal research facilities
+Project applications from the most recent
+expression of interest
+intake process are currently in review. Funded projects will be announced in spring 2024.
+Contribution funding
+Closed for applications
+Funds to advance technological solutions for the production of critical minerals at several stages, such as processing, downstream product manufacturing and recycling
+Project applications from the most recent
+call for proposals
+are currently in review. Funded projects will be announced in spring 2024.
+Background
+Within each funding stream, allocations will be made in phases as funding becomes available. The following provides a breakdown of budget allocations to date:
+Federal research and development
+Between 2022 and 2024, $35.7 million was allocated to 30 R&D projects undertaken by federal research laboratories and focused on battery minerals, mining value from waste, clean tech and other value chains.
+Learn more about Canada’s R&D projects
+.
+The most recent budget will allocate up to $44.4 million to federal R&D laboratories for the development of new or improved technologies that support the advancement of critical mineral value chains. In order to better align federal R&D with industry needs, industry and academia were invited to submit an expression of interest to collaborate with federal research laboratories on upstream and midstream projects at low to mid technology readiness levels (TRL) 2–5 with the capacity to:
+make significant positive impacts on the critical minerals industry in Canada
+help propel projects into the pilot and demonstration (pre-commercialization) phase of development
+Status:
+This
+call for applications
+is closed. A list of funded projects will be announced soon.
+Contribution funding
+Between 2022 and 2025, $22.2 million in contribution funding was allocated to pilot plant and demonstration projects. In total, eight projects were funded to validate the feasibility and viability of processing technologies. See the list of funded projects below.
+The most recent call for proposals will allocate up to $40 million to support midstream projects at technology readiness levels 6–8. This will help to advance the commercial readiness of emerging processing technologies and provide raw material inputs for use in:
+batteries and permanent magnets
+advanced manufacturing supply chains
+semiconductors
+information and communication technologies
+critical infrastructure value chains for commercialization
+Status:
+This
+call for applications
+is closed. Funded projects will be announced and listed below.
+Funded Projects
+The following is a list of projects that received contribution funding from the CMRDD program (additional projects will be announced soon). These projects help to advance production of zero-emission vehicle batteries and other clean technologies such as the manufacturing of permanent magnets.
+Kingston Demonstration Plant – Extended Operations
+Organization:
+Cyclic Materials Inc.
+Description:
+Operate a demonstration plant that produces high-purity mixed rare earth  oxide (MREO) and a cobalt/nickel mixed hydroxide product (MHP) from mixed feed  sources using proprietary Cyclic Materials Inc. physical (spoke) and hydrometallurgical (hub)  processes, validating operating conditions to support future scale and  commercial operations.
+Amount funded:
+$4,893,125
+Status:
+Launching in 2024; expected to be completed by 2027
+Critical Mineral:
+Rare earth elements, cobalt, nickel
+Location:
+Kingston, Ontario
+Canadian Brine to Battery Chemicals: Simplified, Lower Cost, More Sustainable
+Organization:
+Saltworks Technologies Inc.
+Description:
+Process geological lithium brines using Saltwork’s novel technologies to  produce lithium battery precursors through a process that reduces costs and  energy while increasing lithium yield.
+Amount funded:
+$4,937,500
+Status:
+Launching in 2024; expected to be completed by 2027
+Critical Mineral:
+Lithium
+Location:
+Richmond, British Columbia
+Electrolysis for lithium production and recycling
+Organization:
+NORAM Electrolysis Systems Inc. (NESI)
+Description:
+Establish a demonstration plant and continuous improvement test centre  to advance the industrial implementation of the NORSCAND® membrane electrolysis  technology for battery grade lithium hydroxide production through long-duration  lithium production campaigns.
+Amount funded:
+$4,500,000
+Status:
+Launching in 2024; expected to be completed by 2027
+Critical Mineral:
+Lithium
+Location:
+Richmond, British Columbia
+Piloting of bioleaching processes for recovery of battery metals (Ni and Co) from pyrrhotite tailings
+Organization:
+Mining Innovation Rehabilitation and Applied Research Corporation (MIRARCO)
+Description:
+Perform continuous pilot campaigns to compare three competing bioleaching technologies developed with academic, industry and government research partners to demonstrate which one provides the most efficient, economic and environmentally sustainable method for the recovering of nickel, cobalt and copper from pyrrhotite-rich tailings.
+Amount funded:
+$5,000,000
+Status:
+Expected to start in 2024
+Critical Mineral:
+Nickel, cobalt, copper
+Location:
+Sudbury, Ontario
+Black Mass Recycling Project
+Organization:
+Electra Battery Materials Corporation
+Description:
+Demonstrate Electra’s hydrometallurgical process for recycling black mass material on a continuous production basis
+Amount funded:
+$5,000,000
+Status:
+Expected to start in 2024
+Critical Mineral:
+Nickel, cobalt, lithium
+Location:
+Cobalt, Ontario and Temiskaming Shores, Ontario
+La Loutre Graphite Upgrading
+Organization:
+Lomiko Metals Inc.
+Description:
+Pilot upgrading of 200 tonnes of La Loutre graphite to prove the suitability of the battery anode material meeting purity levels of over 99.95% graphitic carbon content and very low impurity content
+Amount funded:
+$4,941,590
+Status:
+Expected to start in 2024
+Critical Mineral:
+Graphite
+Location:
+Lac-des-plages, Quebec
+Cobalt Sulphate Process Pilot
+Organization:
+Fortune Minerals Limited
+Description:
+Pilot hydrometallurgical process to validate and optimize process conditions for the production of high-purity cobalt sulphate, bismuth ingots and blending of process streams; and the validation of gypsum by-product; as well as ensure the process residue is stable for safe disposal
+Amount funded:
+$714,500
+Status:
+Launched in November 2023; expected to be completed by March 2025
+Critical Minerals:
+Cobalt, nickel
+Location:
+Northwest Territories
+*Building on this project, additional funding of up to $7.5 million from Canada’s Global Partnerships Initiative may be allocated to Fortune to help advance engineering for mine site and refinery infrastructure through the completion of its Front-End Engineering and Design study.
+RapidSX™ Commercialization Demonstration Plant
+Organization:
+Ucore Rare Metals Inc.
+Description:
+Demonstrate the commercial efficacy of the RapidSX™ rare earth elements separation technology platform under rigorously simulated commercial conditions
+Amount funded:
+$4,275,848
+Status:
+Launched in November 2023; expected to be completed in March 2025
+Critical Minerals:
+Rare earth elements
+Location:
+Kingston, Ontario
+Technical and Economical Feasibility of Dumont Nickel Concentrate
+Organization:
+Magneto Investments Limited Partnership
+Description:
+Explore and optimize the key design parameters of processing nickel concentrate into battery intermediates (i.e., mixed hydroxide precipitate and nickel sulphate) using a hydrometallurgical program
+Amount funded:
+$4,493,889
+Status:
+Launched in November 2023; expected to be completed in March 2025
+Critical Minerals:
+Nickel, cobalt
+Location:
+Amos, Quebec
+Solvent Extraction for the Separation of Dysprosium and Terbium
+Organization:
+Saskatchewan Research Council
+Description:
+Develop, design, install, commission and test the separation of dysprosium and terbium oxide, using a solvent extraction process
+Amount funded:
+$4,990,000
+Status:
+Launched in October 2023; expected to be completed in March 2025
+Critical Minerals:
+Rare earth elements
+Location:
+Saskatchewan
+Recycling and Production of Rare-Earth Oxides from Permanent Magnet Scrap
+Organization:
+Geomega Resources Inc.
+Description:
+Demonstrate the sustainability of an innovative process to recycle rare earth elements from magnet scrap with a lower carbon footprint compared to other standard processes
+Amount funded:
+$3,000,000
+Status:
+Launched in March 2023; expected to be completed in February 2025
+Critical Minerals:
+Rare earth elements
+Location:
+Saint-Hubert and Longueuil, Quebec
+Battery Material Supply Chain Integration
+Organization:
+FPX Nickel Corp.
+Description:
+Demonstrate the technical and economic viability to produce battery-grade, high-purity nickel, cobalt and copper for the zero-emission vehicle (ZEV) battery supply chain from the Baptiste Nickel Project
+Amount funded:
+$724,858
+Status:
+Launched in March 2023; expected to be completed in September 2024
+Critical Minerals:
+Nickel, cobalt, copper
+Location:
+British Columbia
+Direct Lithium Extraction (DLE) Pilot Project
+Organization:
+E3 Lithium Ltd
+Description:
+Construct and operate a DLE pilot plant that extracted lithium from brine using proprietary DLE technology
+Amount funded:
+$3,545,000
+Status:
+Launched March 2023; completed March 2024
+Critical Mineral:
+Lithium
+Location:
+Calgary, Alberta
+Mixed Hydroxide Precipitate (MHP) Integration into Sherritt’s Fort Saskatchewan Metals Refinery
+Organization:
+Sherritt International Corporation
+Description:
+Evaluate the feasibility and opportunity of using MHP as an additional feed material to efficiently produce high-purity nickel and cobalt
+Amount funded:
+$575,300
+Status:
+Launched in March 2023; completed in March 2024
+Critical Minerals:
+Nickel, cobalt
+Location:
+Fort Saskatchewan, Alberta
+Page details
+Date modified:
+2024-09-13
