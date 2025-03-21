@@ -1,1 +1,702 @@
-Greening Government FundThe Greening Government Fund was established as part of the Government of Canada’s response to climate change. This initiative:provides project funding to federal government departments and agencies to reduce greenhouse gas (GHG) emissions in their operationspromotes and shares innovative approaches to reducing GHGsThe fund targets projects that:are anticipated to reduce GHG emissions in federal operationstest or implement innovative approachescan be reproduced within or across departmentspursue solutions in areas where GHGs are difficult to reduceProject funding comes from departments and agencies that generate more than 1 kilotonne of GHGs per year from air travel and from departments that are below this threshold and contribute voluntarily. Only departments and agencies that contribute to the fund are eligible to access it.As of January 2024, the Greening Government Fund has approved more than $55 million in funding for projects that reduce GHGs in government operations.ProjectsFiltering OptionsFiltering optionsUse the filters below to change the focus of your results.DepartmentAll departmentsAgriculture and Agri-food CanadaCanada Revenue AgencyCanadian Space AgencyCanadian Coast GuardCrown-Indigenous Relations and Northern Affairs CanadaDefence Research and Development CanadaDepartment of National DefenceEnvironment and Climate Change CanadaFisheries and Oceans CanadaGlobal Affairs CanadaHealth CanadaInnovation, Science and Economic Development CanadaNational Research Council CanadaNatural Resources CanadaParks Canada AgencyPublic Services and Procurement CanadaRoyal Canadian Mounted PoliceShared Services CanadaTransport CanadaTreasury Board of Canada SecretariatCategoryAll categoriesReal PropertyFleetOtherProcurementCompletion dateAll years2026202520242023202220212020FilterClearProject TitleDescriptionDepartmentFundingCategoryCompletion DateOngoing Commissioning (OCx) Demonstration ProjectsPilot Ongoing Commissioning (OCx), a process of continuously monitoring and optimizing building performance, in 3 different federal buildings. When combined with Smart Building technologies, OCx helps preserve the GHG reductions resulting from other projects such as deep retrofits.Natural Resources Canada$880,000Real Property2026Develop Workforce Capacity for Low-Carbon ProcurementBuild the capacity of the Government of Canada’s procurement workforce to help procurement officers include low-carbon approaches in procurement and contribute to the target of net-zero GHG emissions by 2050.Treasury Board of Canada Secretariat$40,000Procurement2025Develop Training to Support the Integration of Green Considerations in Asset Management and Investment PlanningDevelop mandatory training material for public servants working in procurement, materiel management, real property and project management. This training will help employees include carbon reduction strategies in their department’s investment plans and asset management practices.Treasury Board of Canada Secretariat$150,000Other2025Identifying and Reducing the Environmental Impacts of Immigration, Refugees and Citizenship Canada’s (IRCC’s) Highest Environmental Impact Categories of Procurement (HICATs) to Reduce Scope 3 GHG Emissions Associated with Procurement of ServicesDetermine IRCC’s procurement categories that have the highest environmental impacts (HICATs) and set criteria to lessen these impacts to reduce scope 3 GHG emissions associated with procurement services.Immigration, Refugees and Citizenship Canada$50,000Procurement2025The Circular Economy in Support of the Decarbonization of Supplies Within Construction, Major Renovation, and Interior Design ProjectsDevelop an action plan for including circular economy measures in all stages of Government of Canada construction projects, major renovations and interior design projects. The plan should aim to reduce carbon emissions in procurement and be easily applied to federal construction and renovation projects across Canada.Public Services and Procurement Canada$150,000Procurement2026Life-Cycle Assessment for a Small Craft Harbour Major Infrastructure Construction ProjectConduct a life-cycle assessment for a major construction project managed by Small Craft Harbours at the Fisheries and Oceans Canada to measure the project’s embodied and operational carbon emissions. The assessment will provide data on GHG emissions to inform plans for reducing emissions in future projects.Fisheries and Oceans Canada$150,000Real Property2026Optimizing Materiel Management for the Parliamentary PrecinctApply the principles of life-cycle assessment and the circular economy to review the Parliament Hill Materiel Management Master Plan and find opportunities to reduce GHG emissions. The assessment will be used to create a case study to help federal employees understand how to apply life-cycle assessment and circular economy principles to materiel management.Public Services and Procurement Canada$40,000Other2025Enabling Green Procurement Through the Development of Customized Tools for Procurement OfficersReduce Global Affairs Canada’s scope 3 emissions from its domestic procurement activities by creating specific technical sheets and green criteria. These will help procurement officers understand the environmental impact of the products and services they assess, enabling them to make informed decisions that support the Greening Government Strategy.Global Affairs Canada$50,000Procurement2025Planet Positive Food Procurement PartnershipReduce scope 3 GHG emissions from food services at Global Affairs Canada (GAC) by replacing high GHG-impact products with lower GHG-impact products. GAC will provide the results to other federal departments to encourage a shift to more sustainable food menus.Global Affairs Canada$60,000Procurement2025Life Cycle Assessment of Policing AssetsFind and analyze the life-cycle carbon impacts of key products bought by the RCMP, especially those that are purchased in large amounts and that are essential to police operations but are not commonly used elsewhere in the public service.Royal Canadian Mounted Police$76,000Procurement2025Enabling the Production of Environmental Product Declarations for Combat VehiclesReduce GHG emissions from the Government of Canada’s procurement activities by creating product category rules to standardize environmental product declarations (EPDs) for combat vehicles. These EPDs will help the government include environmental factors in future contracts for combat vehicles.Public Services and Procurement Canada$150,000Fleet2026Environment and Sustainability in Clothing and TextilesImprove the recycling of uniforms and integrate sustainability requirements in the procurement process for uniform programs under the Uniform Directive of the National Joint Council. The goal is to address textile waste based on circular economy principles and prevent garments from being destroyed at the end of their life, which will help lower GHG emissions.Public Services and Procurement Canada$110,000Other2026Office Supply and Paper Program Green Procurement List DevelopmentReduce scope 3 GHG emissions from office supplies and paper products used by the Government of Canada by identifying and evaluating eco-friendly “green items.” These items will become the default options available for purchase through the National Master Standing Offers for office supplies and paper.Public Services and Procurement Canada$150,000Procurement2026Enable Geoexchange System Optimization Using Renewable Balancing Sources for the TerraCanada Project to Minimize CO2 Emissions and Reduce Grid DependenceIn Canada, heating needs in winter are usually greater than cooling needs in summer. This feasibility study will assess the viability of using renewable energy systems as supplementary heating sources for geoexchange systems. The results will guide the use of geoexchange systems for large projects, aiming to use less energy and reduce GHG emissions.Public Services and Procurement Canada$100,000Real Property2025Greening Plastic Procurement in Federal OperationsCreate environmental criteria to cut plastic waste, enhance recycling and lower scope 3 GHG emissions in plastic products used by the Government of Canada that have a high environmental impact.Environment and Climate Change Canada$150,000Procurement2026Building a Comprehensive Life-Cycle Assessment Knowledge Repository for the Government of Canada’s IT HardwareDevelop a comprehensive repository of standardized tools, resources, best practices and procurement language for life-cycle assessments. This project will help the Government of Canada (GC) address the challenge of understanding and mitigating embodied carbon throughout the life cycle of the GC’s IT assets.Shared Services Canada$150,000Procurement2026Sable Island Sustainable Micro-GridConstruct an innovative micro-grid power generation system consisting of PV solar array and efficient variable speed gensets at the Sable Island National Park Reserve, to reduce fuel consumption and GHG emissions.Parks Canada Agency$800,000Real Property2025Whole-Building Life Cycle Assessment of Federal Buildings (WB LCA) for the Baseline Carbon Footprint Assessment of BuildingsConduct whole-building life cycle assessments on federally owned buildings to determine the baseline carbon footprint of conventionally constructed federal buildings.Public Services and Procurement Canada$835,000Real Property2026Green Public Procurement Tool for Federal AssetDevelop a search tool that enables federal organizations to search for and procure environmentally preferable products.Public Services and Procurement Canada$2,100,000Procurement2026Setting up a Carbon Neutral Research FarmReplace the oil-based heating system in the Normandin Research Farm's main building with a pellet biomass heating system.Agriculture and Agri-food Canada$835,000Real    Property2026Heat Recovery and Control Optimization in an Existing Swine BarnReplace the ventilation system and controls at Sherbrooke Research and Development Centre’s swine barn with a new innovative Canadian heat recovery system designed for a dusty environment.Agriculture and Agri-food Canada$1,000,000Real Property2026High Temperature Resilient Renewable Heating SystemsAnalyze integrated renewable energy and thermal storage systems to support the decarbonization of federal buildings with high-temperature heating distributions systems, considering different climate conditions and buildings’ archetypesNatural Resources Canada$300,000Real Property2025Reducing Scope 3 GHG Emissions Associated with the Government of Canada’s Procurement of Scientific EquipmentQuantify the environmental impact of the government's scientific equipment and develop tools to reduce the GHG emissions associated with the purchase, use and disposal of scientific equipment.Public Services and Procurement Canada & Environment and Climate Change Canada$1,350,000Procurement2026Pilot Project for the Use of Low Carbon Concrete in a New Canada Revenue Agency BuildingPurchase low-carbon concrete for the new Canada Revenue Building in Shawinigan, Quebec and identify best practices for procuring low-carbon concrete.Public Services and Procurement Canada$25,500Procurement2024Naval Electric Ship Technologies (NEST)Assess the feasibility of hybrid and/or all-electric solutions for Royal Canadian Navy (RCN) ships to reduce GHG emissions stemming from ship platforms and operations.Department of National Defence$1,295,000Fleet2026Ship Platform Exploitation of Energy Datasets 2.0 (SPEED 2.0)Optimize energy efficiency and reduce GHG emissions for naval ship platforms through the development of ship energy machine learning and physics-based models and exploration of a ship energy digital twin for reduced fuel use.Department of National Defence$750,000Fleet2025Remote Communications Sites - Future Energy SolutionsConduct a pilot project to evaluate emergent renewable and hybrid Power, Energy and Control (PE&C) systems at remote Marine Communications and Traffic Services sites operated by the Canadian Coast Guard.Fisheries and Oceans Canada$2,870,000Real Property2026A Plan to Reduce Operational Carbon Emissions at Transport Canada Owned and Operated AirportsReplace existing diesel-powered heavy equipment used in airport operations with low-carbon equivalents and evaluate their performance in harsh climatic conditions.Transport Canada$762,000Fleet2026High-Temperature Heat Pump Demonstration ProjectInstall and test a high-temperature heat pump with low global warming potential refrigerant at a Government of Canada building.Natural Resources Canada$75,000Real Property2024Lake Heat Pump Feasibility StudyEvaluate the feasibility of using a water-sourced heat pump to heat and cool Environment and Climate Changes Canada's Canada Centre for Inland Waters laboratory facility in Burlington, Ontario.Environment and Climate Change Canada$50,000Real Property2024CFB 9 Wing Gander Electrical Distribution Capacity and Planning AssessmentComplete an engineering study to determine Canadian Forces Base 9 Wing Gander’s electrical capacity and identify upgrades required to replace the base's heating fuel oil with electricity.Department of National Defence$50,000Real Property2024Employee Access to Federal Electric Vehicle Supply EquipmentConduct a pilot project and develop guidance for managing employee access to federal electric vehicle supply equipment.Natural Resources Canada$50,000Fleet2024Novel and Provisional Electric Vehicle Charging StationsConduct a market and best practice scan of fleet charging solutions to address challenges to electric vehicle readiness at federal facilities.Natural Resources Canada$39,946Fleet2024Depot Campus-Wide Heating Decarbonization StrategyDevelop a decarbonization strategy for the RCMP Depot Campus in Regina, Saskatchewan.Royal Canadian Mounted Police$100,000Real Property2024High-Temperature Heat Pump Pre-Feasibility Tool for Building RetrofitsProvide technology options, increase awareness, and accelerate adoption of leading-edge high-temperature heat pump solutions for hydronic space heating system decarbonization and retrofit projects in federal buildings.Natural Resources Canada$1,950,000Real Property2025Making Heritage Buildings More AirtightQuantify the role air leakage plays in the energy performance of heritage buildings and develop the business case for standardized air leakage testing in heritage retrofit projects.Public Services and Procurement Canada$1,284,870Real Property2025Mount Nansen Solar ProjectInstall two solar array systems, one with a storage battery, at the Mount Nansen Mine Site, an off-grid abandoned mine under remediation in Central Yukon.Crown-Indigenous Relations and Northern Affairs Canada$429,000Real Property2025Distributed Electric Micro GridDeploy an on-base microgrid with integrated battery storage and solar photovoltaic (PV) at Canadian Forces Base Greenwood.Department of National Defence$530,000Real Property2025Living Lab at the Central Experimental FarmConduct a feasibility study for a retrofit of the heritage-recognized Dominion Observatory at the Central Experimental Farm and develop a technical guidance document that advances efforts to improve energy efficiency and climate resilience in heritage buildings across Canada.Natural Resources Canada$200,000Real Property2024Advanced Microgrids towards Artic Zero Emissions (AMAZE)Target GHG reductions at remote northern and arctic federal facilities through an innovative integrated systems approach that includes variable speed generators, thermal energy management, renewable energy systems and advanced microgrid controls.Department of National Defence$1,650,000Real Property2024Greening Northern HousesDesign and build an energy efficient residential unit, to serve as a demonstration project for future net-zero staff housing in remote northern communities.Parks Canada Agency$775,000Real Property2024Enabling Portfolio-Wide Deep Retrofits of Buildings and Facilitating Low-Carbon Fleets through Additions to the RETScreen SoftwareEnhance the RETScreen software to enable it to capture feasibility studies involving “deep retrofit technologies”.Natural Resources Canada$800,000Real Property2023Advanced Control Strategies for CSA’s Space CentreOptimize heating, ventilation, and air-conditioning (HVAC) control systems in CSA’s Space Centre in St-Hubert, Quebec to reduce energy consumption and costs, peak electrical loads, natural gas usage and GHG emissions.Natural Resources Canada & Canadian Space Agency$545,000Real Property2023Optimization of District Energy System Operation and Sequencing Using Model-Based Predictive ControlsDevelop and test Model-based Predictive Control (MPC) strategies at two federal Central Heating Plants (CHP). The MPC strategies developed will reduce fuel consumption and GHG emissions, while contributing to the development of automated algorithms that improve District Energy System (DES) performance more broadly.Natural Resources Canada$350,000Real Property2023CFB Kingston GHG Reduction ProjectDesign and install a net-zero heating source system in seven buildings to replace a steam heat source from an aged, gas-fired Central Heating Plant.Department of National Defence$621,000Real Property2023Net-Zero Carbon Building Upgrade: St. Lewis Fish Management Satellite Office and WarehouseInstall a solar-array photovoltaic system and geothermal heating system to increase the energy efficiency of the facility.Fisheries and Oceans Canada$596,000Real Property2022Heritage Building Envelope Energy Efficiency StudyEvaluate strategies for upgrading a heritage building’s thermal energy performance and develop a guide to improve building envelopes in heritage rehabilitation projects.Public Services and Procurement Canada$850,000Real Property2022Net-Zero Central Heating PlantDevelop a design to switch the fuel used in CFB Goose Bay’s central heating plant from number 6 heating oil to electricity. Switching to renewable energy at this site provides significant benefits as the oil-based facility generated 4% of DND’s total greenhouse gas emissions.Department of National Defence$850,000Real Property2022Minimizing Greenhouse Gas Emissions in an Optimized Base of the FutureDeliver a military base template that minimizes GHG emissions while respecting operational requirements.Department of National Defence$400,000Real Property2022Bedford Institute of Oceanography Seawater HeatingInstall a seawater-sourced geothermal heat pump system at the Bedford Institute of Oceanography in Dartmouth, Nova Scotia, to reduce natural gas use and GHG emissions.Fisheries and Oceans Canada$680,000Real Property2022PV Solar Array to Offset Electricity Consumption in Jeremy’s Bay CampgroundConstruct a photo-voltaic solar array at Kejimkujik National Park and Historic Site, to offset electrical consumption and reduce greenhouse gas emissions.Parks Canada Agency$589,400Real Property2022Ya Ha Tinda Horse Ranch – Hybrid Power SystemInstall a solar microgrid to supplement the power supplied to the ranch’s buildings. The hybrid solar/diesel generator power system reduces GHG emissions and ensures reliable power in a remote, off-grid location.Parks Canada Agency$300,000Real Property2022Net-Zero Carbon Detachment Re-Useable Designs – Small DetachmentDevelop a net-zero-carbon small detachment design for the RCMP that minimizes construction costs and can be replicated across the country.Royal Canadian Mounted Police$400,000Real Property2022High-Temperature Heat Pump for District Energy SystemsDevelop, design and test a prototype water-to-water heat pump that produces high-temperature heat (80+°C) from mid- to low-temperature heat sources (0°C to 30°C).Natural Resources Canada$700,000Real Property2021Solar Net-Zero Carbon Building in Kluane National Park, YukonAdd a roof-mounted solar array with a net meter to the net-zero trades building in Kluane National Park.Parks Canada Agency$240,000Real Property2021Converting the HVAC System of an Existing Pig Farming Building to Include Heat Recovery - A Feasibility StudyConduct a study to examine the viability of retrofitting the Sherbrooke Research and Development Centre’s pork complex with heat recovery units designed specifically for agricultural ventilation.Agriculture and Agri-food Canada$30,000Real Property2021CO2 Cooling in Server RoomsInstall a state-of-the-art CO2 cooling system and recover the heat produced in a planned server room renovation.Public Services and Procurement Canada$100,000Real Property2020Driving the Government of Canada’s Information Technology Toward a Measurable, Low-Carbon, Circular FutureReduce GHG emissions embedded in the Government of Canada’s information technology (IT) by:instituting Greenhouse Gas (GHG) reduction and EcoLabel requirements for the procurement of IT goods and servicespiloting a circular approach to IT hardware procurementexpanding RETScreen to quantify GHG emissions from Data Centres, Cloud and IT Hardwarecompleting Life-cycle Assessments to understand cradle to grave GHG emissions for high impact IT categoriesTreasury Board of Canada Secretariat & Shared Services Canada$1,252,000Procurement2025Buyers for Climate Action (BCA)Establish a coalition of large green buyers to accelerate green procurement and supplier disclosure in areas such as net-zero and climate resilient buildings, low carbon construction materials, zero emission fleets, and green information and communications technology (ICT). The Greening Government Fund contribution supports the secretariat and projects such as the development of model specifications. Members represent large governments across Canada that have net-zero targets and are actively greening their procurement.Treasury Board of Canada Secretariat$500,000 / yearProcurementOngoingDriving Public Services and Procurement Canada Procurements Towards a Low-Carbon EconomyDevelop a science-based tool to quantify GHG emissions associated with procurement.Public Services and Procurement Canada$700,000Procurement2023Low-Carbon Assets Through Life-Cycle AssessmentDevelop a life-cycle inventory database and assessment guidelines to track a built asset’s life-cycle carbon and total cost of ownership.National Research Council Canada$4,000,000Procurement2023From Landfill to Land Restoration - Composting in Waterton Lakes National ParkEstablish a composting system that diverts organic waste generated in Waterton Lakes National Park from the regional landfill. The compostable by-product will be used in grassland restoration projects around the park.Parks Canada Agency$550,000Other2024Mechanical Composter to Divert Organic Waste from LandfillProcure and install mechanical composters and shredders at the headquarters of the Canada Revenue Agency and Global Affairs Canada to divert organic waste from landfill, reduce GHG emissions, and generate clean electricity.Canada Revenue Agency & Global Affairs Canada$521,500Other2024Study on Potential for Using Organic Waste as an Energy SourceDevelop a circular approach for the sustainable management of organic residues at the Valcartier support base.Department of National Defence$200,000Other2021Carpooling AppImplement a carpooling app at Global Affairs Canada and evaluate its effectiveness at encouraging green commuting habits.Global Affairs Canada$62,000Other2021Measurement Canada Heavy-Duty Truck Fleet ReplacementTransition Measurement Canada’s existing fleet of six diesel fueled heavy-duty trucks to 100% electric powered vehicles by 2025.Innovation, Science and Economic Development Canada$1,323,000Fleet2025Green Aviation INnovative Surfaces (GAINS)Develop and deploy micro-structured surface coating technologies to enhance aircraft aerodynamics and reduce aircraft drag in National Safety and Security air fleets.National Research Council Canada & Defence Research and Development Canada$750,000Fleet2025Canadian Low Emission Aircraft Platforms (LEAP)Assess the feasibility of applying hybrid and/or hydrogen electric propulsion and energy technologies to the Royal Canadian Air Force National Safety and Security air fleet and the Transport Canada administrative air fleet.National Research Council Canada & Defence Research and Development Canada$775,000Fleet2025Operational Data Analytics: A Demonstration of Benefits to Greening Government Marine FleetsDevelop a baseline of the current performance and operating conditions of select Canadian Coast Guard (CCG) vessels and develop a proof-of-concept fuel consumption prediction tool to allow for greener marine operations and decision making within the CCG fleet.National Research Council Canada$871,880Fleet2025Deploying Zero-Emission and Clean Fuel Powered Commercial and National Safety & Security Vehicles - From Assessment to ReplicationIdentify, procure, deploy, and evaluate zero-emission and clean fuel powered vehicles for the light-duty National Safety and Security fleet segment.Natural Resources Canada$600,000Fleet2025Electric Commercial Cargo VansReplace 6 gas cargo vans with commercial electric cargo vans.Global Affairs Canada$420,000Fleet2024Interdepartmental Marine Fleet Low/Zero-Emission InitiativeIn partnership with DND, DFO, and Parks Canada, evaluate the performance of low/zero-emission engines in small government vessels (boats less than 15 meters in length) and identify vessel categories best suited for conversion to low/zero-emission alternatives.Royal Canadian Mounted Police$800,000Fleet2024Electric Shuttle BusesReplace two gas shuttle buses providing service for employees between Place Vincent Massey and Fontaine buildings in Gatineau, Quebec, with 100% electric shuttles.Environment and Climate Change Canada$453,215Fleet2024Canadian Coast Guard Vessels Fleet Analysis for Zero-Emissions FuelsConduct a study to understand the impact of combining different blends of low-carbon fuels (biodiesel and renewable diesel) with fossil diesel, and analyze how engine performance, design aspects and relevant equipment onboard may be affected.Fisheries and Oceans Canada - Canadian Coast Guard$246,955Fleet2023Navy Ship Platform Exploitation of Energy Data (SPEED)Optimize energy efficiency and reduce GHG emissions for naval platforms. The project will accomplish this through:developing an understanding of baseline energy usedeveloping and validating ship energy modelsenabling energy-efficient operations by applying data analytics to ship platform power and energy dataDepartment of National Defence$1,570,000Fleet2023Eagle Eye (Virtual Inspection of Cannabis Licence Holders)Conduct a pilot project to replace certain physical inspections, a significant source of carbon emissions, with virtual inspections. If successful, Health Canada will reduce travel-related carbon emissions while maintaining (and perhaps enhancing) regulatory oversight.Health Canada$151,753Fleet2022Purchase of Two Electric TractorsPurchase two zero-emission plug-in electric tractors and install charging equipment at the Research and Development Centre in Summerland, British Columbia and Kentville, Nova Scotia.Agriculture and Agri-food Canada$204,400Fleet2020Enabling Continuous Operational Energy & GHG Optimization for Federal FacilitiesBuild automated greenhouse gas (GHG) management capabilities into the RETScreen Clean Energy Management Software (RETScreen Expert). The improved daily, hourly, and 15-minute data analytics capabilities will enable continuous operational energy and GHG optimization for federal facilities.Natural Resources Canada$800,000Real Property2027Ground Source Heat Pumps for Space Heating in Arctic and Sub-Arctic BuildingsInstall and test a ground source heat pump (GSHP) system in a federal building situated in the Arctic. The demonstration project and accompanying feasibility studies will be used to develop a design guide and pre-feasibility assessment tool for estimating energy savings under different climatic conditions.Natural Resources Canada & Department of National Defence$1,225,000Real Property2027Towards a Carbon Neutral Transportation Experience at Point Pelee National ParkEvaluate zero-emission transportation options to replace the existing compressed natural gas (CNG) and gasoline-powered shuttle system in Point Pelee National Park. A carbon neutral alternative can have four season capabilities that would facilitate increased year-round park visitation.Parks Canada Agency$150,000Fleet2025Greening Grounds Maintenance Equipment in PEI ParksEliminate fossil fuels from all ground maintenance activities by replacing gas and diesel-powered grounds maintenance equipment with zero-emission mowers and electric hand tools. The projects results will effectively reduce GHG emissions from PEIs ground maintenance activities, reduce noise and operational cost and will facilitate similar transitions for other Parks Canada administered locations.Parks Canada Agency$364,000Fleet2027Low Embodied Carbon Materials for Standardized Forced Entry and Ballistic ResistanceDevelop and test standards for low-carbon materials that meet the government’s forced entry and ballistic resistance security requirements. The project’s results will help reduce the embodied carbon associated with the construction of secure areas within RCMP detachments and other secure government facilities.Royal Canadian Mounted Police & Global Affairs Canada$605,000Real Property2027Low Embodied Carbon Materials for Police Facilities with Detention AreasIdentify and test the performance of low embodied carbon and carbon sequestering materials to determine their suitability for use in the construction of police facility detention areas. Results will be used to develop detention security standards that support greening government efforts.Royal Canadian Mounted Police$475,000Real Property2027Case Study of Wood vs. Concrete Building for the Canada Revenue Agency Building in Shawinigan, QuebecConduct a case study and life cycle assessment of the Canada Revenue Building in Shawinigan, Quebec to compare the climate impacts of wood construction with traditional concrete design and construction. The project will define the regional reference carbon footprint for wood construction products and consider solutions for increasing its use in large building projects.Public Services and Procurement Canada$350,000Real Property2026Plastic Circular Economy for Floating Aids to NavigationConduct a pilot project to manufacture new plastic buoys using the polyethylene recovered from existing waste buoy stockpiles. The pilot aims to demonstrate the feasibility of circular approaches and will reduce the embodied carbon of the Canadian Coast Guard’s plastic aids to navigation.Fisheries and Oceans Canada$750,000Procurement2027Hydrogen Utilization for Canadian Coast Guard VesselsProvide Canadian Coast Guard with data on the technological feasibility of hydrogen (and select hydrogen carriers) as a fuel to deliver fleet emission reductions. The study will analyze hydrogen-based technology solutions as well as other factors to understand whether it is feasible, efficient and safe to incorporate hydrogen technology into Canadian Coast Guard operations.Fisheries and Oceans Canada$254,995Fleet2025Feasibility Study on Forest Residue GasificationConduct a feasibility study and life-cycle cost analysis (LCCA) to assess forest residue gasification scenarios at Canadian Forces Base Valcartier. The results of this project would support a low carbon energy production solution to meet peak demand. The project also includes the development of calculation and analysis tools to enable other departments and provinces to conduct similar feasibility studies.Department of National Defense$200,000Other2026Green Heat Microgrid as a Propane ReplacementReplace the propane heating system in a Canadian Forces Base Halifax Building with CO2-based heat pumps and a commercial-scale electrothermal storage (ETS) system. The new system will draw power from a roof-mounted solar array and utilize a weather-driven predictive micro-grid controller to determine when to charge the storage system and draw electricity from the grid.Department of National Defense$730,000Real Property2027Decarbonizing Research and Development Service Contracts: Conducting a Life Cycle Assessment (LCA) on a Large-scale Space ProjectCarry out a life cycle assessment (LCA) on an outer space project to gather relevant granular data on the environmental impacts of these missions, thus identifying opportunities for reducing embodied carbon and developing solutions for decarbonizing space-related R&D contracts.Canadian Space Agency$100,000Procurement2026M Division Headquarters (MHQ) Life Cycle Building AssessmentComplete a GHG reduction and life cycle cost analysis for the existing RCMP’s M Division Headquarters in Whitehorse, Yukon. The project’s results could be applied to older buildings in Whitehorse similar to the MHQ, and therefore reduce Yukon’s dependence on oil / propane.Royal Canadian Mounted Police$100,000Real Property2024National Safety and Security Fleet Decarbonization ProjectAccelerate the decarbonization of National Safety and Security Fleet (NSSF) and other federal air and marine operations by conducting future pathways analysis, technical studies, market analysis, industry engagement, and by developing requirements for low-carbon fuel procurements and operations.Treasury Board of Canada Secretariat$500,000 / yearFleetOngoingPage detailsDate modified:2024-11-28
+Greening Government Fund
+The Government of Canada is committed to reducing greenhouse gas (GHG) emissions and delivering a low-carbon, climate resilient and clean growth economy. The Greening Government Fund, created in 2019, is one component of  The Greening Government Strategy, which outlines the plan to reduce GHG emissions and broader scope greening actions for federal operations.
+The fund targets projects that not only reduce GHG emissions in federal operations, but are innovative, can be reproduced across the government, or that pursue solutions in areas where GHGs may be difficult to reduce. Funding comes from departments and agencies that generate more than 1 kilotonne of GHGs per year from air travel or that have voluntarily contributed to the fund.
+Projects vary greatly but include adopting clean technologies – things like developing smart building competencies or enhancing aircraft aerodynamics, increasing green procurement tools, or implementing renewable electricity initiatives.
+As of January 2025, the Greening Government Fund has approved approximately $60 million in funding for projects that reduce GHGs in government operations.
+Projects
+Filtering Options
+Filtering options
+Use the filters below to change the focus of your results.
+Department
+All departments
+Agriculture and Agri-food Canada
+Canada Revenue Agency
+Canadian Space Agency
+Canadian Coast Guard
+Crown-Indigenous Relations and Northern Affairs Canada
+Defence Research and Development Canada
+Department of National Defence
+Employment and Social Development Canada
+Environment and Climate Change Canada
+Fisheries and Oceans Canada
+Global Affairs Canada
+Health Canada
+Innovation, Science and Economic Development Canada
+National Research Council Canada
+Natural Resources Canada
+Parks Canada Agency
+Public Services and Procurement Canada
+Royal Canadian Mounted Police
+Shared Services Canada
+Transport Canada
+Treasury Board of Canada Secretariat
+Category
+All categories
+Real Property
+Fleet
+Other
+Procurement
+Completion date
+All years
+2027
+2026
+2025
+2024
+2023
+2022
+2021
+2020
+Filter
+Clear
+Project Title
+Description
+Department
+Funding
+Category
+Completion Date
+Optimizing Steam Pressure for District Heating Systems
+Develop a predictive model that automatically calculates pressure adjustments that will reduce natural gas consumption while still meeting district heating demand. This will reduce fuel use and GHG emissions in federal district heating systems with steam networks and natural gas boilers.
+Natural Resources Canada
+$70,000
+Real Property
+2027
+Install Heat Pumps at Kejimkujik National Park & National Historic Site
+Use the clean electricity produced by the onsite photovoltaic solar array to replace four existing oil-based heating systems with electric heat pumps. This will further reduce GHG emissions at Kejimkujik National Park and National Historic Site.
+Parks Canada Agency
+$50,000
+Real Property
+2026
+Quantify the Impacts on Sustainabilty of Divestment Decisions Through GCSurplus
+Develop a sustainability reporting plan for the GCSurplus program to enable tracking of GHG emission reductions from divestment decisions like transferring, selling, donating, or recycling items.
+Public Services and Procurement Canada
+$100,000
+Other
+2026
+Develop a decision making tool to optimize the use (asphalt, concrete, stone, etc.) from deconstruction or excavation work
+Develop a tool to help project managers choose the best way to manage granular residue during deconstruction or excavation projects. This tool will allow managers to prioritize re-using recovered materials on-site to reduce GHG emissions.
+Public Services and Procurement Canada
+$100,000
+Real Property
+2027
+Electrification Readiness Assessment Tool (ERAT)
+Develop a tool to help federal real property portfolio managers identify and overcome roadblocks to electrification, thereby accelerating the transition to low-carbon operations and optimizing resource allocation across the federal government.
+Natural Resources Canada
+$60,000
+Real Property
+2027
+Life Cycle Assessment of Medium and Heavy-Duty Trucks used in Relocation Services
+Conduct a life cycle assessment of medium and heavy-duty trucks used in Government of Canada relocation services focusing on both vehicle production and usage life cycle stages.
+National Research Council Canada
+$150,000
+Fleet
+2027
+Develop Insulation Foams Derived from Canadian Forest Residue for the Construction Industry
+Test an innovative thermal insulation product made from wood residue to evaluate the potential for implementation in federal buildings. The sustainable insulation is designed to match or exceed the performance of traditional insulations and will reduce the embodied carbon emissions from construction projects.
+Public Services and Procurement Canada
+$40,000
+Real Property
+2027
+Hyper-Intelligent Building Program for Optimizing Energy Efficiency
+Apply advanced technology to digitize existing buildings and identify areas for significant reductions in greenhouse gas emissions and energy consumption. By creating 3D models and continuously monitoring energy usage, the project seeks to optimize energy efficiency and reduce the carbon footprint of federal buildings.
+Public Services and Procurement Canada
+$83,000
+Real Property
+2027
+Payment Options for Off-Site Electric Vehicle Charging for Government of Canada fleets
+Research, pilot and assess payment solution(s) that permit Government of Canada fleet operators to access and pay for charging at off-site charging stations.
+Natural Resources Canada
+$50,000
+Fleet
+2027
+Building expertise to integrate carbon reduction strategies through mandatory training for federal public servants
+Develop mandatory training for public servants involved in materiel management. This course will build capacity to integrate carbon reduction strategies into departmental investment plans through materiel management and fleet strategies.
+Treasury Board of Canada Secretariat
+$100,000
+Other
+2026
+Feasibility Study for Solar Canopies in Parking Lots
+Explore the technical feasibility and cost effectiveness of installing solar canopies in a large parking lot in Ottawa. This project will also identify key considerations and design parameters for implementing solar canopies at other RCMP sites.
+Royal Canadian Mounted Police
+$85,000
+Real Property
+2026
+Feasibility Study: Design for Server Room Heat Recovery System
+Design a heat recovery system that will extract heat from a server room and transfer it to the existing heating loop of a building to reduce air conditioning requirements and natural gas consumption during the heating season. When implemented this project could reduce GHG emissions at the facility by approximately 33%.
+Royal Canadian Mounted Police
+$70,000
+Real Property
+2027
+Feasibility Study for Geothermal Solution: Install a Canadian well for an existing dairy complex
+Conduct a feasibility study for installing Canadian geothermal wells to pre-heat and cool the air supply of an existing dairy complex, reducing GHG emissions from fossil fuel heating.
+Agriculture and Agri-food Canada
+$88,000
+Real Property
+2027
+Biogas for Clean Energy Production at 4 Wing Cold Lake
+Generate clean energy by capturing biogas from wastewater treatment and using it to power fuel cells for heating and electricity production. This will minimize methane emissions and reduce the carbon footprint at CFB Cold Lake.
+Department of National Defence
+$100,000
+Real Property
+2027
+Feasibility Study on Sustainable End-of-Life Management for Aids to Navigation in Atlantic Region
+Evaluate the feasibility of chemically recycling plastic navigation aids and synthetic mooring ropes to support a circular economy. This project will provide regional disposal options and by doing so, eliminate the current GHG emissions associated with long-haul transportation of this waste to Ontario.
+Fisheries and Oceans Canada
+$100,000
+Procurement
+2027
+North West Territories Shared Electric Vehicle Pilot Project
+Test a battery electric vehicle and the feasibility of a solar-powered charging station in a harsh sub-Arctic climate. This project will also develop a shared booking tool to facilitate sharing common assets interdepartmentally.
+Employment and Social Development Canada
+$100,000
+Fleet
+2027
+Optimize the use of remanufactured parts within the Canadian Coast Guard
+Optimize the use of remanufactured parts, thereby minimizing the need for new parts production and reducing GHG emissions. This initiative supports sustainable procurement practices and promotes a circular economy.
+Fisheries and Oceans Canada
+$50,000
+Procurement
+2026
+Reducing Embodied Carbon in the Parliament Welcome Center Duct Bank Relocation
+Conduct a pilot project to reduce the embodied carbon (by up to 40%) in the Parliament Welcome Centre duct relocation project, demonstrating that significant embodied carbon can be reduced in utility infrastructure.
+Public Services and Procurement Canada
+$70,000
+Real Property
+2027
+Portable Level 3 Modular Electric Vehicle (EV) Chargers
+Procure and pilot portable level 3 modular (stackable) EV charging units that can be easily transported to remote and underserved locations, enabling EVs to partially recharge and extend their operational range.
+Environment and Climate Change Canada
+$453,215
+Fleet
+2026
+Ongoing Commissioning (OCx) Demonstration Projects
+Pilot Ongoing Commissioning (OCx), a process of continuously monitoring and optimizing building performance, in 3 different federal buildings. When combined with Smart Building technologies, OCx helps preserve the GHG reductions resulting from other projects such as deep retrofits.
+Natural Resources Canada
+$880,000
+Real Property
+2026
+Develop Workforce Capacity for Low-Carbon Procurement
+Build the capacity of the Government of Canada’s procurement workforce to help procurement officers include low-carbon approaches in procurement and contribute to the target of net-zero GHG emissions by 2050.
+Treasury Board of Canada Secretariat
+$40,000
+Procurement
+2025
+Identifying and Reducing the Environmental Impacts of Immigration, Refugees and Citizenship Canada’s (IRCC’s) Highest Environmental Impact Categories of Procurement (HICATs) to Reduce Scope 3 GHG Emissions Associated with Procurement of Services
+Determine IRCC’s procurement categories that have the highest environmental impacts (HICATs) and set criteria to lessen these impacts to reduce scope 3 GHG emissions associated with procurement services.
+Immigration, Refugees and Citizenship Canada
+$50,000
+Procurement
+2025
+The Circular Economy in Support of the Decarbonization of Supplies Within Construction, Major Renovation, and Interior Design Projects
+Develop an action plan for including circular economy measures in all stages of Government of Canada construction projects, major renovations and interior design projects. The plan should aim to reduce carbon emissions in procurement and be easily applied to federal construction and renovation projects across Canada.
+Public Services and Procurement Canada
+$150,000
+Procurement
+2026
+Life-Cycle Assessment for a Small Craft Harbour Major Infrastructure Construction Project
+Conduct a life-cycle assessment for a major construction project managed by Small Craft Harbours at the Fisheries and Oceans Canada to measure the project’s embodied and operational carbon emissions. The assessment will provide data on GHG emissions to inform plans for reducing emissions in future projects.
+Fisheries and Oceans Canada
+$150,000
+Real Property
+2026
+Optimizing Materiel Management for the Parliamentary Precinct
+Apply the principles of life-cycle assessment and the circular economy to review the Parliament Hill Materiel Management Master Plan and find opportunities to reduce GHG emissions. The assessment will be used to create a case study to help federal employees understand how to apply life-cycle assessment and circular economy principles to materiel management.
+Public Services and Procurement Canada
+$40,000
+Other
+2025
+Enabling Green Procurement Through the Development of Customized Tools for Procurement Officers
+Reduce Global Affairs Canada’s scope 3 emissions from its domestic procurement activities by creating specific technical sheets and green criteria. These will help procurement officers understand the environmental impact of the products and services they assess, enabling them to make informed decisions that support the Greening Government Strategy.
+Global Affairs Canada
+$50,000
+Procurement
+2025
+Planet Positive Food Procurement Partnership
+Reduce scope 3 GHG emissions from food services at Global Affairs Canada (GAC) by replacing high GHG-impact products with lower GHG-impact products. GAC will provide the results to other federal departments to encourage a shift to more sustainable food menus.
+Global Affairs Canada
+$60,000
+Procurement
+2025
+Life Cycle Assessment of Policing Assets
+Find and analyze the life-cycle carbon impacts of key products bought by the RCMP, especially those that are purchased in large amounts and that are essential to police operations but are not commonly used elsewhere in the public service.
+Royal Canadian Mounted Police
+$76,000
+Procurement
+2025
+Enabling the Production of Environmental Product Declarations for Combat Vehicles
+Reduce GHG emissions from the Government of Canada’s procurement activities by creating product category rules to standardize environmental product declarations (EPDs) for combat vehicles. These EPDs will help the government include environmental factors in future contracts for combat vehicles.
+Public Services and Procurement Canada
+$150,000
+Fleet
+2026
+Environment and Sustainability in Clothing and Textiles
+Improve the recycling of uniforms and integrate sustainability requirements in the procurement process for uniform programs under the Uniform Directive of the National Joint Council. The goal is to address textile waste based on circular economy principles and prevent garments from being destroyed at the end of their life, which will help lower GHG emissions.
+Public Services and Procurement Canada
+$110,000
+Other
+2026
+Office Supply and Paper Program Green Procurement List Development
+Reduce scope 3 GHG emissions from office supplies and paper products used by the Government of Canada by identifying and evaluating eco-friendly “green items.” These items will become the default options available for purchase through the National Master Standing Offers for office supplies and paper.
+Public Services and Procurement Canada
+$150,000
+Procurement
+2026
+Enable Geoexchange System Optimization Using Renewable Balancing Sources for the TerraCanada Project to Minimize CO2 Emissions and Reduce Grid Dependence
+In Canada, heating needs in winter are usually greater than cooling needs in summer. This feasibility study will assess the viability of using renewable energy systems as supplementary heating sources for geoexchange systems. The results will guide the use of geoexchange systems for large projects, aiming to use less energy and reduce GHG emissions.
+Public Services and Procurement Canada
+$100,000
+Real Property
+2025
+Greening Plastic Procurement in Federal Operations
+Create environmental criteria to cut plastic waste, enhance recycling and lower scope 3 GHG emissions in plastic products used by the Government of Canada that have a high environmental impact.
+Environment and Climate Change Canada
+$150,000
+Procurement
+2026
+Integrating Sustainability in IT Procurement to Reduce Embodied Carbon
+Develop recommendations to integrate sustainability and reduce the embodied carbon from the procurement of IT equipment like desktops, laptops, and mobile phones. This project will support PSPC’s Green Procurement Product Tool (GPPT) and help reduce Scope 3 emissions from federal IT procurement.
+Shared Services Canada
+$50,000
+Procurement
+2025
+Sable Island Sustainable Micro-Grid
+Construct an innovative micro-grid power generation system consisting of PV solar array and efficient variable speed gensets at the Sable Island National Park Reserve, to reduce fuel consumption and GHG emissions.
+Parks Canada Agency
+$800,000
+Real Property
+2025
+Whole-Building Life Cycle Assessment of Federal Buildings (WB LCA) for the Baseline Carbon Footprint Assessment of Buildings
+Conduct whole-building life cycle assessments on federally owned buildings to determine the baseline carbon footprint of conventionally constructed federal buildings.
+Public Services and Procurement Canada
+$835,000
+Real Property
+2026
+Green Public Procurement Tool for Federal Asset
+Develop a search tool that enables federal organizations to search for and procure environmentally preferable products.
+Public Services and Procurement Canada
+$2,100,000
+Procurement
+2026
+Heat Recovery and Control Optimization in an Existing Swine Barn
+Replace the ventilation system and controls at Sherbrooke Research and Development Centre’s swine barn with a new innovative Canadian heat recovery system designed for a dusty environment.
+Agriculture and Agri-food Canada
+$1,835,000
+Real Property
+2026
+High Temperature Resilient Renewable Heating Systems
+Analyze integrated renewable energy and thermal storage systems to support the decarbonization of federal buildings with high-temperature heating distributions systems, considering different climate conditions and buildings’ archetypes
+Natural Resources Canada
+$300,000
+Real Property
+2025
+Reducing Scope 3 GHG Emissions Associated with the Government of Canada’s Procurement of Scientific Equipment
+Quantify the environmental impact of the government's scientific equipment and develop tools to reduce the GHG emissions associated with the purchase, use and disposal of scientific equipment.
+Public Services and Procurement Canada & Environment and Climate Change Canada
+$1,350,000
+Procurement
+2026
+Pilot Project for the Use of Low Carbon Concrete in a New Canada Revenue Agency Building
+Purchase low-carbon concrete for the new Canada Revenue Building in Shawinigan, Quebec and identify best practices for procuring low-carbon concrete.
+Public Services and Procurement Canada
+$25,500
+Procurement
+2024
+Naval Electric Ship Technologies (NEST)
+Assess the feasibility of hybrid and/or all-electric solutions for Royal Canadian Navy (RCN) ships to reduce GHG emissions stemming from ship platforms and operations.
+Department of National Defence
+$1,295,000
+Fleet
+2026
+Ship Platform Exploitation of Energy Datasets 2.0 (SPEED 2.0)
+Optimize energy efficiency and reduce GHG emissions for naval ship platforms through the development of ship energy machine learning and physics-based models and exploration of a ship energy digital twin for reduced fuel use.
+Department of National Defence
+$750,000
+Fleet
+2025
+Remote Communications Sites - Future Energy Solutions
+Conduct a pilot project to evaluate emergent renewable and hybrid Power, Energy and Control (PE&C) systems at remote Marine Communications and Traffic Services sites operated by the Canadian Coast Guard.
+Fisheries and Oceans Canada
+$2,870,000
+Real Property
+2026
+A Plan to Reduce Operational Carbon Emissions at Transport Canada Owned and Operated Airports
+Replace existing diesel-powered heavy equipment used in airport operations with low-carbon equivalents and evaluate their performance in harsh climatic conditions.
+Transport Canada
+$762,000
+Fleet
+2026
+High-Temperature Heat Pump Demonstration Project
+Install and test a high-temperature heat pump with low global warming potential refrigerant at a Government of Canada building.
+Natural Resources Canada
+$75,000
+Real Property
+2024
+Lake Heat Pump Feasibility Study
+Evaluate the feasibility of using a water-sourced heat pump to heat and cool Environment and Climate Changes Canada's Canada Centre for Inland Waters laboratory facility in Burlington, Ontario.
+Environment and Climate Change Canada
+$50,000
+Real Property
+2024
+CFB 9 Wing Gander Electrical Distribution Capacity and Planning Assessment
+Complete an engineering study to determine Canadian Forces Base 9 Wing Gander’s electrical capacity and identify upgrades required to replace the base's heating fuel oil with electricity.
+Department of National Defence
+$50,000
+Real Property
+2024
+Employee Access to Federal Electric Vehicle Supply Equipment
+Conduct a pilot project and develop guidance for managing employee access to federal electric vehicle supply equipment.
+Natural Resources Canada
+$50,000
+Fleet
+2024
+Novel and Provisional Electric Vehicle Charging Stations
+Conduct a market and best practice scan of fleet charging solutions to address challenges to electric vehicle readiness at federal facilities.
+Natural Resources Canada
+$39,946
+Fleet
+2024
+Depot Campus-Wide Heating Decarbonization Strategy
+Develop a decarbonization strategy for the RCMP Depot Campus in Regina, Saskatchewan.
+Royal Canadian Mounted Police
+$100,000
+Real Property
+2024
+High-Temperature Heat Pump Pre-Feasibility Tool for Building Retrofits
+Provide technology options, increase awareness, and accelerate adoption of leading-edge high-temperature heat pump solutions for hydronic space heating system decarbonization and retrofit projects in federal buildings.
+Natural Resources Canada
+$1,950,000
+Real Property
+2025
+Making Heritage Buildings More Airtight
+Quantify the role air leakage plays in the energy performance of heritage buildings and develop the business case for standardized air leakage testing in heritage retrofit projects.
+Public Services and Procurement Canada
+$1,284,870
+Real Property
+2025
+Mount Nansen Solar Project
+Install two solar array systems, one with a storage battery, at the Mount Nansen Mine Site, an off-grid abandoned mine under remediation in Central Yukon.
+Crown-Indigenous Relations and Northern Affairs Canada
+$429,000
+Real Property
+2025
+Distributed Electric Micro Grid
+Deploy an on-base microgrid with integrated battery storage and solar photovoltaic (PV) at Canadian Forces Base Greenwood.
+Department of National Defence
+$530,000
+Real Property
+2027
+Living Lab at the Central Experimental Farm
+Conduct a feasibility study for a retrofit of the heritage-recognized Dominion Observatory at the Central Experimental Farm and develop a technical guidance document that advances efforts to improve energy efficiency and climate resilience in heritage buildings across Canada.
+Natural Resources Canada
+$200,000
+Real Property
+2024
+Advanced Microgrids towards Artic Zero Emissions (AMAZE)
+Target GHG reductions at remote northern and arctic federal facilities through an innovative integrated systems approach that includes variable speed generators, thermal energy management, renewable energy systems and advanced microgrid controls.
+Department of National Defence
+$1,650,000
+Real Property
+2024
+Greening Northern Houses
+Design and build an energy efficient residential unit, to serve as a demonstration project for future net-zero staff housing in remote northern communities.
+Parks Canada Agency
+$852,500
+Real Property
+2027
+Enabling Portfolio-Wide Deep Retrofits of Buildings and Facilitating Low-Carbon Fleets through Additions to the RETScreen Software
+Enhance the RETScreen software to enable it to capture feasibility studies involving “deep retrofit technologies”.
+Natural Resources Canada
+$800,000
+Real Property
+2023
+Advanced Control Strategies for CSA’s Space Centre
+Optimize heating, ventilation, and air-conditioning (HVAC) control systems in CSA’s Space Centre in St-Hubert, Quebec to reduce energy consumption and costs, peak electrical loads, natural gas usage and GHG emissions.
+Natural Resources Canada & Canadian Space Agency
+$545,000
+Real Property
+2023
+Optimization of District Energy System Operation and Sequencing Using Model-Based Predictive Controls
+Develop and test Model-based Predictive Control (MPC) strategies at two federal Central Heating Plants (CHP). The MPC strategies developed will reduce fuel consumption and GHG emissions, while contributing to the development of automated algorithms that improve District Energy System (DES) performance more broadly.
+Natural Resources Canada
+$350,000
+Real Property
+2023
+CFB Kingston GHG Reduction Project
+Design and install a net-zero heating source system in seven buildings to replace a steam heat source from an aged, gas-fired Central Heating Plant.
+Department of National Defence
+$621,000
+Real Property
+2023
+Net-Zero Carbon Building Upgrade: St. Lewis Fish Management Satellite Office and Warehouse
+Install a solar-array photovoltaic system and geothermal heating system to increase the energy efficiency of the facility.
+Fisheries and Oceans Canada
+$596,000
+Real Property
+2022
+Heritage Building Envelope Energy Efficiency Study
+Evaluate strategies for upgrading a heritage building’s thermal energy performance and develop a guide to improve building envelopes in heritage rehabilitation projects.
+Public Services and Procurement Canada
+$850,000
+Real Property
+2022
+Net-Zero Central Heating Plant
+Develop a design to switch the fuel used in CFB Goose Bay’s central heating plant from number 6 heating oil to electricity. Switching to renewable energy at this site provides significant benefits as the oil-based facility generated 4% of DND’s total greenhouse gas emissions.
+Department of National Defence
+$850,000
+Real Property
+2022
+Minimizing Greenhouse Gas Emissions in an Optimized Base of the Future
+Deliver a military base template that minimizes GHG emissions while respecting operational requirements.
+Department of National Defence
+$400,000
+Real Property
+2022
+Bedford Institute of Oceanography Seawater Heating
+Install a seawater-sourced geothermal heat pump system at the Bedford Institute of Oceanography in Dartmouth, Nova Scotia, to reduce natural gas use and GHG emissions.
+Fisheries and Oceans Canada
+$680,000
+Real Property
+2022
+PV Solar Array to Offset Electricity Consumption in Jeremy’s Bay Campground
+Construct a photo-voltaic solar array at Kejimkujik National Park and Historic Site, to offset electrical consumption and reduce greenhouse gas emissions.
+Parks Canada Agency
+$589,400
+Real Property
+2022
+Ya Ha Tinda Horse Ranch – Hybrid Power System
+Install a solar microgrid to supplement the power supplied to the ranch’s buildings. The hybrid solar/diesel generator power system reduces GHG emissions and ensures reliable power in a remote, off-grid location.
+Parks Canada Agency
+$300,000
+Real Property
+2022
+Net-Zero Carbon Detachment Re-Useable Designs – Small Detachment
+Develop a net-zero-carbon small detachment design for the RCMP that minimizes construction costs and can be replicated across the country.
+Royal Canadian Mounted Police
+$400,000
+Real Property
+2022
+High-Temperature Heat Pump for District Energy Systems
+Develop, design and test a prototype water-to-water heat pump that produces high-temperature heat (80+°C) from mid- to low-temperature heat sources (0°C to 30°C).
+Natural Resources Canada
+$700,000
+Real Property
+2021
+Solar Net-Zero Carbon Building in Kluane National Park, Yukon
+Add a roof-mounted solar array with a net meter to the net-zero trades building in Kluane National Park.
+Parks Canada Agency
+$240,000
+Real Property
+2021
+Converting the HVAC System of an Existing Pig Farming Building to Include Heat Recovery - A Feasibility Study
+Conduct a study to examine the viability of retrofitting the Sherbrooke Research and Development Centre’s pork complex with heat recovery units designed specifically for agricultural ventilation.
+Agriculture and Agri-food Canada
+$30,000
+Real Property
+2021
+CO2 Cooling in Server Rooms
+Install a state-of-the-art CO2 cooling system and recover the heat produced in a planned server room renovation.
+Public Services and Procurement Canada
+$100,000
+Real Property
+2020
+Driving the Government of Canada’s Information Technology Toward a Measurable, Low-Carbon, Circular Future
+Reduce GHG emissions embedded in the Government of Canada’s information technology (IT) by:
+instituting Greenhouse Gas (GHG) reduction and EcoLabel requirements for the procurement of IT goods and services
+assessing circular approaches to IT hardware procurement
+expanding RETScreen to quantify GHG emissions from Data Centres, Cloud and IT Hardware
+completing Life-cycle Assessments to understand cradle to grave GHG emissions for high impact IT categories
+Treasury Board of Canada Secretariat & Shared Services Canada
+$1,252,000
+Procurement
+2025
+Buyers for Climate Action (BCA)
+Establish a coalition of large green buyers to accelerate green procurement and supplier disclosure in areas such as net-zero and climate resilient buildings, low carbon construction materials, zero emission fleets, and green information and communications technology (ICT). The Greening Government Fund contribution supports the secretariat and projects such as the development of model specifications. Members represent large governments across Canada that have net-zero targets and are actively greening their procurement.
+Treasury Board of Canada Secretariat
+$500,000 / year
+Procurement
+Ongoing
+Driving Public Services and Procurement Canada Procurements Towards a Low-Carbon Economy
+Develop a science-based tool to quantify GHG emissions associated with procurement.
+Public Services and Procurement Canada
+$700,000
+Procurement
+2023
+Low-Carbon Assets Through Life-Cycle Assessment
+Develop a life-cycle inventory database and assessment guidelines to track a built asset’s life-cycle carbon and total cost of ownership.
+National Research Council Canada
+$4,000,000
+Procurement
+2023
+From Landfill to Land Restoration - Composting in Waterton Lakes National Park
+Establish a composting system that diverts organic waste generated in Waterton Lakes National Park from the regional landfill. The compostable by-product will be used in grassland restoration projects around the park.
+Parks Canada Agency
+$550,000
+Other
+2024
+Mechanical Composter to Divert Organic Waste from Landfill
+Procure and install mechanical composters and shredders at the headquarters of the Canada Revenue Agency and Global Affairs Canada to divert organic waste from landfill and reduce GHG emissions.
+Canada Revenue Agency & Global Affairs Canada
+$521,500
+Other
+2025
+Study on Potential for Using Organic Waste as an Energy Source
+Develop a circular approach for the sustainable management of organic residues at the Valcartier support base.
+Department of National Defence
+$200,000
+Other
+2021
+Carpooling App
+Implement a carpooling app at Global Affairs Canada and evaluate its effectiveness at encouraging green commuting habits.
+Global Affairs Canada
+$62,000
+Other
+2021
+Measurement Canada Heavy-Duty Truck Fleet Replacement
+Transition Measurement Canada’s existing fleet of six diesel fueled heavy-duty trucks to 100% electric powered vehicles by 2025.
+Innovation, Science and Economic Development Canada
+$1,323,000
+Fleet
+2025
+Green Aviation INnovative Surfaces (GAINS)
+Develop and deploy micro-structured surface coating technologies to enhance aircraft aerodynamics and reduce aircraft drag in National Safety and Security air fleets.
+National Research Council Canada & Defence Research and Development Canada
+$750,000
+Fleet
+2025
+Canadian Low Emission Aircraft Platforms (LEAP)
+Assess the feasibility of applying hybrid and/or hydrogen electric propulsion and energy technologies to the Royal Canadian Air Force National Safety and Security air fleet and the Transport Canada administrative air fleet.
+National Research Council Canada & Defence Research and Development Canada
+$775,000
+Fleet
+2025
+Operational Data Analytics: A Demonstration of Benefits to Greening Government Marine Fleets
+Develop a baseline of the current performance and operating conditions of select Canadian Coast Guard (CCG) vessels and develop a proof-of-concept fuel consumption prediction tool to allow for greener marine operations and decision making within the CCG fleet.
+National Research Council Canada
+$871,880
+Fleet
+2026
+Deploying Zero-Emission National Safety & Security Vehicles
+Identify, procure, deploy, and evaluate zero-emission vehicles for the light-duty National Safety and Security fleet segment.
+Natural Resources Canada
+$600,000
+Fleet
+2026
+Electric Commercial Cargo Vans
+Replace 6 gas cargo vans with commercial electric cargo vans.
+Global Affairs Canada
+$420,000
+Fleet
+2024
+Interdepartmental Marine Fleet Low/Zero-Emission Initiative
+In partnership with DND, DFO, and Parks Canada, evaluate the performance of low/zero-emission engines in small government vessels (boats less than 15 meters in length) and identify vessel categories best suited for conversion to low/zero-emission alternatives.
+Royal Canadian Mounted Police
+$800,000
+Fleet
+2024
+Canadian Coast Guard Vessels Fleet Analysis for Zero-Emissions Fuels
+Conduct a study to understand the impact of combining different blends of low-carbon fuels (biodiesel and renewable diesel) with fossil diesel, and analyze how engine performance, design aspects and relevant equipment onboard may be affected.
+Fisheries and Oceans Canada - Canadian Coast Guard
+$246,955
+Fleet
+2023
+Navy Ship Platform Exploitation of Energy Data (SPEED)
+Optimize energy efficiency and reduce GHG emissions for naval platforms. The project will accomplish this through:
+developing an understanding of baseline energy use
+developing and validating ship energy models
+enabling energy-efficient operations by applying data analytics to ship platform power and energy data
+Department of National Defence
+$1,570,000
+Fleet
+2023
+Eagle Eye (Virtual Inspection of Cannabis Licence Holders)
+Conduct a pilot project to replace certain physical inspections, a significant source of carbon emissions, with virtual inspections. If successful, Health Canada will reduce travel-related carbon emissions while maintaining (and perhaps enhancing) regulatory oversight.
+Health Canada
+$151,753
+Fleet
+2022
+Purchase of Two Electric Tractors
+Purchase two zero-emission plug-in electric tractors and install charging equipment at the Research and Development Centre in Summerland, British Columbia and Kentville, Nova Scotia.
+Agriculture and Agri-food Canada
+$204,400
+Fleet
+2020
+Enabling Continuous Operational Energy & GHG Optimization for Federal Facilities
+Build automated greenhouse gas (GHG) management capabilities into the RETScreen Clean Energy Management Software (RETScreen Expert). The improved daily, hourly, and 15-minute data analytics capabilities will enable continuous operational energy and GHG optimization for federal facilities.
+Natural Resources Canada
+$800,000
+Real Property
+2027
+Ground Source Heat Pumps for Space Heating in Arctic and Sub-Arctic Buildings
+Install and test a ground source heat pump (GSHP) system in a federal building situated in the Arctic. The demonstration project and accompanying feasibility studies will be used to develop a design guide and pre-feasibility assessment tool for estimating energy savings under different climatic conditions.
+Natural Resources Canada & Department of National Defence
+$1,225,000
+Real Property
+2027
+Towards a Carbon Neutral Transportation Experience at Point Pelee National Park
+Evaluate zero-emission transportation options to replace the existing compressed natural gas (CNG) and gasoline-powered shuttle system in Point Pelee National Park. A carbon neutral alternative can have four season capabilities that would facilitate increased year-round park visitation.
+Parks Canada Agency
+$150,000
+Fleet
+2025
+Greening Grounds Maintenance Equipment in PEI Parks
+Eliminate fossil fuels from all ground maintenance activities by replacing gas and diesel-powered grounds maintenance equipment with zero-emission mowers and electric hand tools. The projects results will effectively reduce GHG emissions from PEIs ground maintenance activities, reduce noise and operational cost and will facilitate similar transitions for other Parks Canada administered locations.
+Parks Canada Agency
+$364,000
+Fleet
+2027
+Low Embodied Carbon Materials for Standardized Forced Entry and Ballistic Resistance
+Develop and test standards for low-carbon materials that meet the government’s forced entry and ballistic resistance security requirements. The project’s results will help reduce the embodied carbon associated with the construction of secure areas within RCMP detachments and other secure government facilities.
+Royal Canadian Mounted Police & Global Affairs Canada
+$605,000
+Real Property
+2027
+Low Embodied Carbon Materials for Police Facilities with Detention Areas
+Identify and test the performance of low embodied carbon and carbon sequestering materials to determine their suitability for use in the construction of police facility detention areas. Results will be used to develop detention security standards that support greening government efforts.
+Royal Canadian Mounted Police
+$475,000
+Real Property
+2027
+Case Study of Wood vs. Concrete Building for the Canada Revenue Agency Building in Shawinigan, Quebec
+Conduct a case study and life cycle assessment of the Canada Revenue Building in Shawinigan, Quebec to compare the climate impacts of wood construction with traditional concrete design and construction. The project will define the regional reference carbon footprint for wood construction products and consider solutions for increasing its use in large building projects.
+Public Services and Procurement Canada
+$350,000
+Real Property
+2026
+Plastic Circular Economy for Floating Aids to Navigation
+Conduct a pilot project to manufacture new plastic buoys using the polyethylene recovered from existing waste buoy stockpiles. The pilot aims to demonstrate the feasibility of circular approaches and will reduce the embodied carbon of the Canadian Coast Guard’s plastic aids to navigation.
+Fisheries and Oceans Canada
+$750,000
+Procurement
+2027
+Hydrogen Utilization for Canadian Coast Guard Vessels
+Provide Canadian Coast Guard with data on the technological feasibility of hydrogen (and select hydrogen carriers) as a fuel to deliver fleet emission reductions. The study will analyze hydrogen-based technology solutions as well as other factors to understand whether it is feasible, efficient and safe to incorporate hydrogen technology into Canadian Coast Guard operations.
+Fisheries and Oceans Canada
+$254,995
+Fleet
+2025
+Feasibility Study on Forest Residue Gasification
+Conduct a feasibility study and life-cycle cost analysis (LCCA) to assess forest residue gasification scenarios at Canadian Forces Base Valcartier. The results of this project would support a low carbon energy production solution to meet peak demand. The project also includes the development of calculation and analysis tools to enable other departments and provinces to conduct similar feasibility studies.
+Department of National Defense
+$200,000
+Other
+2026
+Decarbonizing Research and Development Service Contracts: Conducting a Life Cycle Assessment (LCA) on a Large-scale Space Project
+Carry out a life cycle assessment (LCA) on an outer space project to gather relevant granular data on the environmental impacts of these missions, thus identifying opportunities for reducing embodied carbon and developing solutions for decarbonizing space-related R&D contracts.
+Canadian Space Agency
+$100,000
+Procurement
+2026
+M Division Headquarters (MHQ) Life Cycle Building Assessment
+Complete a GHG reduction and life cycle cost analysis for the existing RCMP’s M Division Headquarters in Whitehorse, Yukon. The project’s results could be applied to older buildings in Whitehorse similar to the MHQ, and therefore reduce Yukon’s dependence on oil / propane.
+Royal Canadian Mounted Police
+$100,000
+Real Property
+2024
+National Safety and Security Fleet Decarbonization Project
+Accelerate the decarbonization of National Safety and Security Fleet (NSSF) and other federal air and marine operations by conducting future pathways analysis, technical studies, market analysis, industry engagement, and by developing requirements for low-carbon fuel procurements and operations.
+Treasury Board of Canada Secretariat
+$500,000 / year
+Fleet
+Ongoing
+Page details
+Date modified:
+2025-03-21
